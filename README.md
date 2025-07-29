@@ -234,7 +234,7 @@ We welcome contributions! Please feel free to:
 ## Support
 
 - 🌐 **Website**: [DataDrivenConstruction.io](https://datadrivenconstruction.io)
-- 💬 **Issues**: [GitHub Issues](https://github.com/datadrivenconstruction/Revit-IFC-DWG-DGN-Converter-in-n8n-with-QTO/issues)
+- 💬 **Issues**: [GitHub Issues](https://github.com/datadrivenconstruction/Project-management-n8n-with-task-management-and-photo-reports/issues)
 - 📧 **Email**: info@datadrivenconstruction.io
   
 
