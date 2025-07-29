@@ -20,7 +20,7 @@ Welcome to the **Project Management** system repository! This is a universal aut
 
 The system allows managers to set tasks with minimal description, and executors supplement them with real data (status, comments, photos, geolocation), forming a complete picture of execution. 
 The system is integrated with Telegram and Google Sheets, providing a convenient management interface.
-![Application](https://datadrivenconstruction.io/wp-content/uploads/2025/07/App-Manager.jpg)
+![Application](https://datadrivenconstruction.io/wp-content/uploads/2025/07/App-Manager-1.jpg)
 
 ---
 
@@ -216,7 +216,7 @@ Edit in n8n for customization (e.g., add manager notifications).
 [Discussion](https://t.me/datadrivenconstruction)
 
 Want to discuss new automation pipelines, share your cases or get help? You can find more automation examples in the GitHub repository or in our Telegram chat "n8n Development | Automation practice and ready-made solutions". Join our Telegram community for live discussions, tips and exclusive content.  
-![Executor Response](https://datadrivenconstruction.io/wp-content/uploads/2025/07/DataDrivenConstruction-and-n8n-in-construction.jpg)
+![Executor Response](https://datadrivenconstruction.io/wp-content/uploads/2025/07/DataDrivenConstruction-and-n8n-in-construction-1.jpg)
 
 ---
 ## Contributors
