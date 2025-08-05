@@ -6,7 +6,7 @@
 Welcome to the **Project Management** system repository! This is a universal automated free workflow based on n8n, designed for managing tasks and reports in any "manager-executor" relationships. The system uses a Telegram bot as a convenient interface for interaction, Google Sheets (or can be connected to any other spreadsheets) for data storage and automatic reminders about tasks and reports.
 
 ### 📋 Demo bot for task management
-- 🤖 **Test Bot:** [@ProjectManagementTasks_Bot](https://t.me/ProjectManagementTasks_Bot)  
+- 🤖 **Test Bot:** [@ProjectManagementTasks_Bot](https://t.me/ProjectManagementTasks_Bot)  ⚠️ May be unavailable sometimes as it runs on a VPS which is not always on.
 - 📊 **Report Spreadsheet:** [Google Sheets](https://docs.google.com/spreadsheets/d/1fWi_0W_jqKa61h2oB3zZLdTDBK8_cQ123RtF70X1rwc)  
 
   
